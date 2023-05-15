@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE finalquiz SYSTEM "FinalQuiz.dtd" >
+<finalquiz>
+  <question>
+    <qnumber>1</qnumber>
+    <qtitle>In Python, the ________ keyword is used to define a function.</qtitle>
+    <a>func</a>
+    <b>function</b>
+    <c>def</c>
+    <d>define</d>
+  </question>
+  <question>
+    <qnumber>2</qnumber>
+    <qtitle>The process of hiding the internal details of how an object works is known as ________.</qtitle>
+    <a>abstraction</a>
+    <b>encapsulation</b>
+    <c>inheritance</c>
+    <d>polymorphism</d>
+  </question>
+  <question>
+    <qnumber>3</qnumber>
+    <qtitle>In JavaScript, the ________ method is used to remove the last element from an array and return that element.</qtitle>
+    <a>pop</a>
+    <b>push</b>
+    <c>shift</c>
+    <d>unshift</d>
+  </question>
+  <question>
+    <qnumber>4</qnumber>
+    <qtitle>________ is a design pattern that restricts the instantiation of a class to a single instance.</qtitle>
+    <a>Singleton</a>
+    <b>Decorator</b>
+    <c>Adapter</c>
+    <d>Composite</d>
+  </question>
+  <question>
+    <qnumber>5</qnumber>
+    <qtitle>The ________ keyword is used in SQL to retrieve data from a database.</qtitle>
+    <a>GET</a>
+    <b>FETCH</b>
+    <c>SELECT</c>
+    <d>PULL</d>
+  </question>
+  <rightanswers>c,b,a,a,c</rightanswers>
+</finalquiz>
